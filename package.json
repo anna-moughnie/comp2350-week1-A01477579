@@ -1,0 +1,12 @@
+{
+	"name": "tutorial",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^4.21.2"
+	},
+	"author": "Patrick",
+	"license": "ISC"
+}
